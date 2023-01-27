@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "abstract",
+    "name": "Abstract Client",
+    "description": "Advanced Utility client",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "WMS"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

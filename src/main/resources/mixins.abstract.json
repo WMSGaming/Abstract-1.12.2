@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.wms.abstractclient.mixin.mixins",
+  "refmap": "mixins.abstract.refmap.json",
+  "mixins": [
+    "MixinCPacketPlayer",
+    "MixinNetworkManager",
+    "MixinAbstractClientPlayer",
+    "MixinRenderEnderCrystal",
+    "MixinEntityPlayerSP",
+    "MixinRenderItem",
+    "MixinEntityRenderer",
+    "MixinEntityLivingBase",
+    "MixinMinecraft",
+    "MixinRenderLivingBase",
+    "MixinEntity",
+    "MixinGuiMainMenu"
+  ]
+}
